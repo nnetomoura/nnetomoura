@@ -1,4 +1,4 @@
-<div align="justify"> Olá! 👋 Me chamo Cláudio Pereira e por formação sou biólogo e mestre em Biologia Animal pela Universidade Federal de Pernambuco (genética 🧬). 
+<div align="justify"> Olá! 👋 Me chamo Cláudio Pereira e por formação sou biólogo e mestre em Biologia Animal pela Universidade Federal de Pernambuco (ênfase em genética da conservação 🧬). 
 MAAAAAAAS, sempre fui muito curioso e interessado em tecnologia. Foi essa curiosidade, inclusive, que me trouxe até esse mundo mágico do qual eu não quero mais sair hahaha.  🤟 </p>
 
 
