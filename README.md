@@ -1,6 +1,6 @@
 # Github do Cráudio
 Olá! 👋 Me chamo <b> Cláudio Pereira </b> e por formação sou biólogo e mestre em Biologia Animal pela Universidade Federal de Pernambuco (ênfase em genética da conservação 🧬). 
-MAAAAAAAS, desde que me entendo por gente eu sempre fui bastante curioso e interessado por tecnologia (com fuciona esse carrinho de controle remoto? como o controle da TV funciona mesmo de longe? e por aí vai...). Foi essa curiosidade, inclusive, que me trouxe até esse mundo mágico do qual eu não quero mais sair hahaha.  🤟 
+MAAAAAAAS, desde que me entendo por gente eu sempre fui bastante curioso e interessado por tecnologia (com funciona esse carrinho de controle remoto? como o controle da TV consegue controlá-la mesmo de longe? e por aí vai...). Foi essa curiosidade, inclusive, que me trouxe até esse mundo mágico do qual eu não quero mais sair hahaha.  🤟 
 
 
 <div>                                                                                                                                           
