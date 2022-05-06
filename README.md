@@ -4,9 +4,9 @@ MAAAAAAAS, desde que me entendo por gente eu sempre fui bastante curioso e inter
 
 
 
-<div> <img align="right" height="272"src = "https://user-images.githubusercontent.com/101600143/167058283-5a788e5c-2f6c-4e2a-bacd-fca415f984d4.gif" /> 
+<div> <img align="right" height="190"src = "https://user-images.githubusercontent.com/101600143/167058283-5a788e5c-2f6c-4e2a-bacd-fca415f984d4.gif" /> 
  
-<img align="left" height="272" src = "https://user-images.githubusercontent.com/101600143/167057929-f952fb10-05a7-4d98-b0ef-dd6b317150e1.gif" /> </div>
+<img align="left" height="190" src = "https://user-images.githubusercontent.com/101600143/167057929-f952fb10-05a7-4d98-b0ef-dd6b317150e1.gif" /> </div>
 
 
 <div>                                                                                                                                           
@@ -19,8 +19,8 @@ Espero que minhas contribuições te ajudem de alguma maneira, afinal... <b> a e
 
 <div>
   <a href="https://github.com/nnetomoura">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nnetomoura&show_icons=true&theme=sift&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnetomoura&layout=compact&langs_count=7&theme=sift"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nnetomoura&show_icons=true&theme=sift&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnetomoura&layout=compact&langs_count=7&theme=sift"/>
 </div>
 
    
