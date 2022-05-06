@@ -10,7 +10,7 @@ MAAAAAAAS, desde que me entendo por gente eu sempre fui bastante curioso e inter
 </div>
 
 
-<p> Espero que minhas contribuições te ajudem de alguma maneira, afinal... <b> a essência do conhecimento é compartilhá-lo! </p>              
+<p> Espero que minhas contribuições te ajudem de alguma maneira, afinal... <b> a essência do conhecimento é compartilhá-lo!</p>              
 
 <div> <img align="right" height="230"src ="https://user-images.githubusercontent.com/101600143/167057929-f952fb10-05a7-4d98-b0ef-dd6b317150e1.gif"/> 
 
