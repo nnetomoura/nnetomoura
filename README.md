@@ -4,9 +4,9 @@ MAAAAAAAS, desde que me entendo por gente eu sempre fui bastante curioso e inter
 
 
 
-<div> <img align="right" height="190"src = "https://user-images.githubusercontent.com/101600143/167058283-5a788e5c-2f6c-4e2a-bacd-fca415f984d4.gif" /> 
- 
-<img align="left" height="190" src = "https://user-images.githubusercontent.com/101600143/167057929-f952fb10-05a7-4d98-b0ef-dd6b317150e1.gif" /> </div>
+<div> <img align="right" height="210"src = "https://user-images.githubusercontent.com/101600143/167058283-5a788e5c-2f6c-4e2a-bacd-fca415f984d4.gif" /> 
+
+<img align="left" height="210" src = "https://user-images.githubusercontent.com/101600143/167057929-f952fb10-05a7-4d98-b0ef-dd6b317150e1.gif" /> </div>
 
 
 <div>                                                                                                                                           
